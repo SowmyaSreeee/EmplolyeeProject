@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/basic_corejava/src/com/wirpro/multi_threads/SleepTester.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.wirpro.multi_threads.SleepTester"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="basic_corejava"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="basic_corejava"/>
+</launchConfiguration>
